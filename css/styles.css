@@ -22,8 +22,14 @@ h1, h5, h6 {
 }
 
 .container {
-    
     width: 80%;
     margin: auto;
     overflow: hidden;
+}
+
+#todays_date {
+    text-align: right;
+    color: white;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
 }
