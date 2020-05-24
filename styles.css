@@ -49,9 +49,17 @@ h1, h5, h6 {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 18pt;
+    font-weight: bold;
 }
 
 #analyze_strings {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 18pt;
+}
+
+#rounding_num {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
