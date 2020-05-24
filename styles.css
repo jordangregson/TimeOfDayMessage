@@ -50,3 +50,10 @@ h1, h5, h6 {
     color: white;
     font-size: 18pt;
 }
+
+#analyze_strings {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 18pt;
+}
