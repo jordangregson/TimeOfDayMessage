@@ -66,7 +66,7 @@ h1, h5, h6 {
     font-size: 18pt;
 }
 
-@media (max-width: 670px) {
+@media (max-width: 1000px) {
     h1, h6, h5 {
         font-size: 12pt;
     }
